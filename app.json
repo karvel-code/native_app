@@ -29,7 +29,7 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "",
+    "description": "A marketplace for selling things that you don't need anymore.",
     "githubUrl": "https://github.com/karvel-code/native_app"
   }
 }
